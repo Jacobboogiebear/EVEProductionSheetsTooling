@@ -1,0 +1,13 @@
+{
+    "name": "eveproductionsheetstooling",
+    "version": "0.0.1",
+    "description": "A google appscript application for a bunch of EVE Online related functions, all for google spreadsheets!",
+    "scripts": {
+        "push": "clasp push"
+    },
+    "author": "Jacob Morris",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/google-apps-script": "^1.0.65"
+    }
+}
